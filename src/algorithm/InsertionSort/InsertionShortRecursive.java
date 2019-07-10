@@ -11,7 +11,7 @@ import java.util.Arrays;
  *
  * @author root
  */
-public class InsertionShortRecursize {
+public class InsertionShortRecursive {
     public static void main(String[] args) {
         int[] arr = {3, 2, 4, 5, 7, 8, -1};
         insertionShort(arr, 1, arr.length-1);

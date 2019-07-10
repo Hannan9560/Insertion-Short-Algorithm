@@ -49,4 +49,6 @@ public class SelectionShort {
         arr[j]=arr[min];
         arr[min]=temp;
     }
+    
+   
 }
